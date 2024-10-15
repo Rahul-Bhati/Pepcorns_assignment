@@ -11,6 +11,12 @@ module.exports = {
                 hostname: 'd2j6gq8tvnyhoe.cloudfront.net',
                 port: '',
             },
+            {
+                protocol: 'https',
+                hostname: 'assets.republic.com',
+                port: '',
+            },
+
         ],
     },
 }

@@ -5,6 +5,7 @@ import Hero from "./_components/Hero";
 import PitchUpdateTab from "./_components/PitchUpdateTab";
 import Press from "./_components/Press";
 import Team from "./_components/Team";
+import Footer from "./_components/Footer";
 
 export default function Home() {
   return (
@@ -35,7 +36,9 @@ export default function Home() {
             <p className="text-green-600 my-4">Avawatz successfully raised $103,596 from 26 investors on October 1, 2024 </p>
           </div>
         </div>
+
       </div>
+      <Footer />
 
     </>
   );
